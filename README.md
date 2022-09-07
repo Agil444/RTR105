@@ -20,8 +20,15 @@ These are the difinese
 
 ### <a name='Imformation'></a>Imformation
   These are names
-  
-  whoami
+ 
+ ctrl+alt+t
+ 
+ ctrl+shift+t
+ 
+ ctrl+alt+ F1...F7
+ 
+ 
+ whoami
   
   who
   
