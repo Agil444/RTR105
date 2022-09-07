@@ -6,7 +6,7 @@ To do Task
 - [Tuesday](https://go.mail.ru/search_images?fr=main&frm=main&gp=811041&q=shopping#urlhash=2896293577420479268) :-1:
 - [Wednesday](https://go.mail.ru/search_images?fr=main&frm=main&gp=811041&q=work#urlhash=1844442607936858700) :+1:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # Header
 [Defines](#Defines)
 
@@ -33,7 +33,7 @@ These are the difinese
   
   man pwd
   
-  echo$0
+  echo $0
   
   sh
   
@@ -46,3 +46,5 @@ These are the difinese
   cd .
   
   cd ..
+  
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
