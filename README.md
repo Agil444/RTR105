@@ -8,15 +8,41 @@ To do Task
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 # Header
-[defines](#defines)
+[Defines](#Defines)
 
-[Imformation](#information)
-
-
+[Imformation](#Imformation)
 
 
-### Defines
+
+
+### <a name='Defines'></a>Defines
 These are the difinese 
 
-###<a name='costom-name'></a>custom/Names
+### <a name='Imformation'></a>Imformation
   These are names
+  
+  whoami
+  
+  who
+  
+  last
+  
+  pwd
+  
+  history
+  
+  man pwd
+  
+  echo$0
+  
+  sh
+  
+  ls
+  
+  ls -a
+  
+  ls -l
+  
+  cd .
+  
+  cd ..
