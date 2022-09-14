@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone httpws://github.com/Agil444/RTR105
+    4  git clone htpps://github.com/Agil444/RTR105
+    5  git clone https://github.com/Agil444/RTR105
+    6  pwd
+    7  ls -lt
+    8  RTR105
+    9  ls -la
+   10  RTR105
+   11  cd RTR105
+   12  pwd
+   13  ls -la
+   14  history 
+   15  history > history_20220914a.txt
+   16  ls -la
+   17  cat history_20220914a.txt
+   18  git add . 
+   19  git config --global user.name Agil444
+   20  git config --global user.email taqilet@gmail.com
+   21  git commit -m "Class_03a"
+   22  git push origin main 
+   23  pwd
+   24  ls -lt
+   25  cat 
+   26  history >  history_20220914a.txt
+   27  ls -lt
+   28  history >  history_20220914b.txt
+   29  ls -lt
+   30  history >  history_20220914b.txt
+   31  nano  history_20220914b.txt
+   32  ls 
+   33  whereis ls
+   34  pwd
+   35  ls -l /bin/ls
+   36  ls
+   37  /bin/ls
+   38  echo $PATH
+   39  nano
+   40  nano my_first_script.sh 
+   41  cat my_first_script.sh 
+   42  my_first_script.sh
+   43  pwd
+   44  ./my_first_script.sh
+   45  man chmod 
+   46  chmod 764 my_first_script.sh
+   47  history_20220919.txt
+   48  q
+   49  chmad 764 my_first_script.txt
+   50  chmod 764 my_first_script.sh 
+   51  ls -ltls-lt
+   52  ls -lt
+   53  my_first_script.sh
+   54  pwd 
+   55  ./my_first_script.sh
+   56  nano
+   57  nano my_first_script.sh 
+   58  rmdir Class_03/
+   59  rmdir -r Classs_03/
+   60  ls -lt
+   61  ls -lt Class_03/ls -lt Class_03/ls -lt Class_03/ls -lt Class_03/
+   62  nano Class_03/history_20220914a.txt
+   63  history >  history_20220914b.txt
